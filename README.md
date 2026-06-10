@@ -1,4 +1,4 @@
-# FreeCodeCamp: Student Database (Part 1)
+# FreeCodeCamp: Student Database
 
 Учебный проект, созданный в рамках воркшопа от freeCodeCamp по курсу **Relational Database**. В ходе выполнения этого проекта была спроектирована и создана база данных студентов, курсов и их оценок.
 
